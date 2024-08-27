@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vk7eJSbk6lF6OFspS3Xv-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&quot; face=&quot;ZCOOL KuaiLe&quot;&gt;阿斯达大事&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fontFamily=Noto Serif Simplified Chinese;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSimplified%2BChinese;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
