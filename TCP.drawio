@@ -1,11 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="Vr15ccz6EVA4M0iIQkiq">
-    <mxGraphModel dx="600" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Vk7eJSbk6lF6OFspS3Xv-1" value="&lt;font face=&quot;HarmonyOS Sans&quot;&gt;阿斯达大事&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fontFamily=HarmonyOS Sans;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="Vk7eJSbk6lF6OFspS3Xv-2" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;HTTP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk7eJSbk6lF6OFspS3Xv-3" value="&lt;font face=&quot;HarmonyOS Sans&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;应用层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="485" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk7eJSbk6lF6OFspS3Xv-4" value="FTP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk7eJSbk6lF6OFspS3Xv-5" value="DNS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk7eJSbk6lF6OFspS3Xv-6" value="SSH" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="490" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk7eJSbk6lF6OFspS3Xv-7" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;SMTP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="790" y="490" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
