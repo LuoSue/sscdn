@@ -177,11 +177,14 @@
         <mxCell id="cNdLmp2RzwPViIMugcrR-26" value="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#ffe6cc;fillStyle=dots;sketch=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="230" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cNdLmp2RzwPViIMugcrR-27" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNdLmp2RzwPViIMugcrR-26" target="cNdLmp2RzwPViIMugcrR-4">
+        <mxCell id="cNdLmp2RzwPViIMugcrR-27" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="cNdLmp2RzwPViIMugcrR-26" target="cNdLmp2RzwPViIMugcrR-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="449.5" as="sourcePoint" />
             <mxPoint x="360" y="449.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cNdLmp2RzwPViIMugcrR-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
