@@ -229,6 +229,12 @@
         <mxCell id="sRBQHjzgSEttbX9BW1jR-4" value="" style="image;html=1;image=img/lib/clip_art/computers/iMac_128x128.png" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="sRBQHjzgSEttbX9BW1jR-5" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=HarmonyOS Sans;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="30" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sRBQHjzgSEttbX9BW1jR-6" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Server&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=HarmonyOS Sans;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="30" width="125" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
