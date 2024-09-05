@@ -271,7 +271,7 @@
           <mxGeometry x="120" y="130" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sRBQHjzgSEttbX9BW1jR-17" value="#1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#dae8fc;fillStyle=dots;sketch=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="370" y="120" width="60" height="60" as="geometry" />
+          <mxGeometry x="380" y="150" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
