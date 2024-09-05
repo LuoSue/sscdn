@@ -43,6 +43,9 @@
             <mxPoint x="440" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D_Iyu_lApaUP51BwkMID-10" value="&lt;b&gt;创建哑节点dummy，初始指向链表的头节点&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=HarmonyOS Sans;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="370" height="148" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
