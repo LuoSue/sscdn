@@ -489,7 +489,7 @@
             <mxPoint x="747.3" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MsjZHgPMAkLoFz_ZVgtr-33" value="&lt;b&gt;Wait for Client&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="MsjZHgPMAkLoFz_ZVgtr-33" value="&lt;b&gt;Receive FIN,Send ACK,Tell APP To Close&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="575" y="135" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MsjZHgPMAkLoFz_ZVgtr-34" value="&lt;b&gt;Receive SYN,&lt;/b&gt;&lt;div&gt;&lt;b&gt;Send SYN+ACK&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=Comic Sans MS;" vertex="1" parent="1">
