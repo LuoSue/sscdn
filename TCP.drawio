@@ -619,10 +619,10 @@
         <mxCell id="KPTm6P3Ywu4rl8rHfInK-22" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;—&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCCCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="950" y="400" width="110" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="KPTm6P3Ywu4rl8rHfInK-23" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CLOSED&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-23" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SYN-SENT&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="650" width="150" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="KPTm6P3Ywu4rl8rHfInK-24" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;HarmonyOS Sans&quot;&gt;&lt;span style=&quot;&quot;&gt;在服务端执行“被动打开”（&lt;i&gt;passive OPEN&lt;/i&gt;）并准备好接收连接之前，客户端无法执行任何操作。&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=default;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-24" value="&lt;font face=&quot;HarmonyOS Sans&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;客户端等待接收来自服务端的 ACK（对自己发送的 SYN 的确认）以及服务端自己的 SYN。&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=default;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="210" y="650" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="KPTm6P3Ywu4rl8rHfInK-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;—&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="1">
