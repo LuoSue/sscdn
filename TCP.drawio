@@ -365,7 +365,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IRCd3bS5OXfXAOJB426j" name="Page-5">
-    <mxGraphModel dx="2140" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,7 +403,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MsjZHgPMAkLoFz_ZVgtr-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1.001;exitY=0.756;exitDx=0;exitDy=0;entryX=0.003;entryY=0.881;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#10098F;exitPerimeter=0;" edge="1" parent="1" source="MsjZHgPMAkLoFz_ZVgtr-3" target="MsjZHgPMAkLoFz_ZVgtr-4">
+        <mxCell id="MsjZHgPMAkLoFz_ZVgtr-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1.001;exitY=0.756;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.837;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#10098F;exitPerimeter=0;" edge="1" parent="1" source="MsjZHgPMAkLoFz_ZVgtr-3" target="MsjZHgPMAkLoFz_ZVgtr-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="390" as="sourcePoint" />
             <mxPoint x="380" y="340" as="targetPoint" />
@@ -501,7 +501,7 @@
         <mxCell id="MkwU-0yonOhhux3-Aaej-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Comic Sans MS&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;FIN-WAIT-2&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry y="360" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MkwU-0yonOhhux3-Aaej-6" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=-0.003;exitY=0.381;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.481;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#E4007F;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="MkwU-0yonOhhux3-Aaej-6" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=-0.003;exitY=0.381;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.003;entryY=0.713;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#E4007F;entryPerimeter=0;" edge="1" parent="1" target="MsjZHgPMAkLoFz_ZVgtr-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="575.5" y="420" as="sourcePoint" />
             <mxPoint x="251.5" y="487" as="targetPoint" />
@@ -526,6 +526,15 @@
         </mxCell>
         <mxCell id="MkwU-0yonOhhux3-Aaej-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Wait ACK For FIN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="575" y="460" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MkwU-0yonOhhux3-Aaej-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Receive ACK&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="575" y="550" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MkwU-0yonOhhux3-Aaej-17" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;#1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E4007F;strokeColor=#99004D;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MkwU-0yonOhhux3-Aaej-18" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;#2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
