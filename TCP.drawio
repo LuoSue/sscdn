@@ -555,7 +555,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8PN4QeX5p6T5UAvHY5mD" name="Page-6">
-    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -672,6 +672,24 @@
         </mxCell>
         <mxCell id="KPTm6P3Ywu4rl8rHfInK-40" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 16px;&quot;&gt;ESTAB-LISHED&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="950" y="1080" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-41" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SYN-SENT&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCCCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1260" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-42" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;HarmonyOS Sans&quot;&gt;客户端已经准备好进行数据传输操作&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCCCFF;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1260" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-43" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ESTAB-LISHED&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCCCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1260" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-44" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SYN-SENT&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCCCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1260" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-45" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;HarmonyOS Sans&amp;quot;;&quot;&gt;服务端已经准备好进行数据传输操作&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCCCFF;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1260" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-46" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ESTAB-LISHED&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCCCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1260" width="110" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
