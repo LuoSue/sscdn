@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10" pages="6">
   <diagram name="第 1 页" id="Vr15ccz6EVA4M0iIQkiq">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -550,6 +550,56 @@
             <mxPoint x="140" y="660" as="sourcePoint" />
             <mxPoint x="190" y="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8PN4QeX5p6T5UAvHY5mD" name="Page-6">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;HarmonyOS Sans&quot;&gt;客户端&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;HarmonyOS Sans&quot;&gt;服务端&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;HarmonyOS Sans&quot;&gt;开始状态&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;HarmonyOS Sans&quot;&gt;动作&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;HarmonyOS Sans&quot;&gt;转移到状态&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;HarmonyOS Sans&quot;&gt;开始状态&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;HarmonyOS Sans&quot;&gt;动作&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;HarmonyOS Sans&quot;&gt;转移到状态&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-10" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CLOSED&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=default;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-11" value="&lt;font face=&quot;HarmonyOS Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;在服务端执行“被动打开”（passive OPEN）并准备好接收连接之前，客户端无法执行任何操作。&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;—&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-13" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CLOSED&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-14" value="&lt;font face=&quot;HarmonyOS Sans&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;服务端执行“被动打开”（passive OPEN），创建一个传输控制块（TCB），准备接收来自服务端的连接请求（SYN）。&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="220" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPTm6P3Ywu4rl8rHfInK-15" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;LISTEN&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="220" width="110" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
