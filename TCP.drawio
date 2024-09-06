@@ -414,7 +414,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MsjZHgPMAkLoFz_ZVgtr-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Wait for Server&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="MsjZHgPMAkLoFz_ZVgtr-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Receive Close Signal From APP,Send FIN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="120" y="65" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MsjZHgPMAkLoFz_ZVgtr-13" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Client State&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;aspect=fixed;fontFamily=HarmonyOS Sans;fontStyle=4" vertex="1" parent="1">
